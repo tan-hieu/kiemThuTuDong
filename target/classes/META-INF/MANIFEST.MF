@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Main-Class: ql.net.ui.HomeJFrame
+Created-By: Maven Integration for Eclipse
+
